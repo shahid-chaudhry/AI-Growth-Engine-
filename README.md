@@ -1,4 +1,4 @@
-# AI-Growth-Engine-
+# AI-Growth-Engine
 End-to-End Digital Marketing & Lead Management System
 
 1️⃣ Introduction
