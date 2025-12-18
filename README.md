@@ -20,9 +20,13 @@ AI Growth Engine is a complete automation system that solves all of this by comb
 This system automates the full journey from online visibility to lead handling and performance reporting:
 
 ✔ Social media content & posting
+
 ✔ Lead capture from interested customers
+
 ✔ Instant AI responses
+
 ✔ Automated follow-ups
+
 ✔ Weekly performance reports
 
 All running automatically in the background.
